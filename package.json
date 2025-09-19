@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "int": "^0.2.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybhavaniprasad79/api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ybhavaniprasad79/api/issues"
+  },
+  "homepage": "https://github.com/ybhavaniprasad79/api#readme"
+}
